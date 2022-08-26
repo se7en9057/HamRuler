@@ -19,7 +19,7 @@ U 1 1 63083B00
 P 3550 2450
 F 0 "H1" V 3787 2453 50  0000 C CNN
 F 1 "MountingHole_Pad" V 3696 2453 50  0000 C CNN
-F 2 "Connector:Banana_Jack_1Pin" H 3550 2450 50  0001 C CNN
+F 2 "Resources:Large Pad" H 3550 2450 50  0001 C CNN
 F 3 "~" H 3550 2450 50  0001 C CNN
 	1    3550 2450
 	0    -1   -1   0   
@@ -30,7 +30,7 @@ U 1 1 63084185
 P 3550 3200
 F 0 "H2" V 3787 3203 50  0000 C CNN
 F 1 "MountingHole_Pad" V 3696 3203 50  0000 C CNN
-F 2 "Connector:Banana_Jack_1Pin" H 3550 3200 50  0001 C CNN
+F 2 "Resources:Large Pad" H 3550 3200 50  0001 C CNN
 F 3 "~" H 3550 3200 50  0001 C CNN
 	1    3550 3200
 	0    -1   -1   0   
